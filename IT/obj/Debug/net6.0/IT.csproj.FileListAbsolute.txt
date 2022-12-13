@@ -1,0 +1,15 @@
+C:\Users\Monck\Desktop\COD\IT\bin\Debug\net6.0\IT.exe
+C:\Users\Monck\Desktop\COD\IT\bin\Debug\net6.0\IT.deps.json
+C:\Users\Monck\Desktop\COD\IT\bin\Debug\net6.0\IT.runtimeconfig.json
+C:\Users\Monck\Desktop\COD\IT\bin\Debug\net6.0\IT.dll
+C:\Users\Monck\Desktop\COD\IT\bin\Debug\net6.0\IT.pdb
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.csproj.AssemblyReference.cache
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.AssemblyInfoInputs.cache
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.AssemblyInfo.cs
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.csproj.CoreCompileInputs.cache
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.dll
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\refint\IT.dll
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.pdb
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\IT.genruntimeconfig.cache
+C:\Users\Monck\Desktop\COD\IT\obj\Debug\net6.0\ref\IT.dll
